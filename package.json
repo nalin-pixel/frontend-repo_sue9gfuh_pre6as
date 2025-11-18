@@ -27,7 +27,9 @@
     "clsx": "^2.1.0",
     "framer-motion": "^11.0.0",
     "lucide-react": "^0.363.0",
-    "tailwind-merge": "^2.2.0"
+    "tailwind-merge": "^2.2.0",
+    "mapbox-gl": "^2.15.0",
+    "@mapbox/mapbox-gl-draw": "^1.6.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.0",
